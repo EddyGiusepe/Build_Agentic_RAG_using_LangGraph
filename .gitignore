@@ -212,3 +212,4 @@ __marimo__/
 chroma_db/
 medical_chroma_db/
 medical_chroma_openai_db/
+chroma_db_AgenteRAG/
